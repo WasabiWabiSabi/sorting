@@ -33,7 +33,7 @@ def cmp_standard(a, b):
 
 def cmp_reverse(a, b):
     '''
-    used for sorting from highest to lowest
+    used here for sorting from highest to lowest
     >>> cmp_reverse(125, 322)
     1
     >>> cmp_reverse(523, 322)
